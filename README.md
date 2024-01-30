@@ -10,7 +10,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/steven-ton-6207a1167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-ton-6207a1167" height="30" width="40" /></a>
 </p>
 <h3 align="left">Here is a look at my profile: </h3>
-<a href="https://ston00.github.io/#project-description" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-ton-6207a1167" height="30" width="40" /></a>
+<a href="https://ston00.github.io/#project-description" target="blank"><img align="center" src="" alt="![image](https://github.com/ston00/ston00/assets/71420917/1426b0ff-9119-4ecd-91c7-90b0889d3def)
+" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
