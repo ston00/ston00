@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/steven-ton-6207a1167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-ton-6207a1167" height="30" width="40" /></a>
 </p>
-<h3 align="left">Here is a look at my profile: </h3>
+<h3 align="left">Here is a look at my portfolio: </h3>
 <a href="https://ston00.github.io/#project-description" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="https://ston00.github.io/#project-description" height="30" width="40" /></a>
 </p>
 
