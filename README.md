@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate frontend developer seeking for new job opportunities!</h3>
+<h1 align="left"> <Strong>Hi 👋, I'm Steven</Strong></h1>
+<h3 align="left"> <Strong>🖥 A passionate frontend developer seeking for new job opportunities!</Strong></h3>
 
 - 🔭 I’m currently working on **a Life Tracker Application**
 
-- ⚡ Fun fact **I enjoy weight lifting, chess, and tennis.**
+- ⚡ Fun fact **I enjoy weightlifting, chess, and tennis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
