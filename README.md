@@ -1,7 +1,7 @@
 <h1 align="left"> <Strong>Hi 👋, I'm Steven</Strong></h1>
 <h3 align="left"> <Strong>🖥 A passionate frontend developer seeking for new job opportunities!</Strong></h3>
 
-- 🔭 I’m currently working on **a Recipe Finder App**
+- 🔭 I’m currently working on **a Recipe Finder App** and **a US Cost of Living App**
 
 - ⚡ Fun fact **I enjoy weightlifting, chess, and tennis.**
 
