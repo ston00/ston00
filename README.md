@@ -1,5 +1,5 @@
 <h1 align="left"> <Strong>Hi 👋, I'm Steven</Strong></h1>
-<h3 align="left"> <Strong>🖥 A passionate Software Developer seeking for new job opportunities!</Strong></h3>
+<h3 align="left"> <Strong>🖥 A passionate AI Prompt Engineer seeking any relevant new job opportunities!</Strong></h3>
 
 - 🔭 I’m currently working on **a Recipe Finder App** and **a US Cost of Living App**
 
@@ -12,6 +12,8 @@
 <h3 align="left">Here is a look at my portfolio: </h3>
 <a href="https://ston00.github.io" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="https://ston00.github.io" height="30" width="40" /></a>
 </p>
+<h3 align="left">Add me on Chess! </h3>
+<a href="https://link.chess.com/friend/zlzPUj" target="blank"><img align="center" src="♟️" alt="https://link.chess.com/friend/zlzPUj" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
