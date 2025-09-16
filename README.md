@@ -13,7 +13,7 @@
 <a href="https://ston00.github.io" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="https://ston00.github.io" height="30" width="40" /></a>
 </p>
 <h3 align="left">Add me on Chess! </h3>
-<a href="https://link.chess.com/friend/zlzPUj" target="blank"><img align="center" src="♟️" alt="https://link.chess.com/friend/zlzPUj" height="30" width="40" /></a>
+<a href="https://link.chess.com/friend/zlzPUj" target="blank">♟️<img align="center" alt="https://link.chess.com/friend/zlzPUj" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
