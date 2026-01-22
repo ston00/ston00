@@ -1,9 +1,9 @@
 <h1 align="left"> <Strong>Hi 👋, I'm Steven</Strong></h1>
-<h3 align="left"> <Strong>🖥 A passionate AI Prompt Engineer seeking any relevant new job opportunities!</Strong></h3>
+<h3 align="left"> <Strong>🖥 A passionate Data Analyst and aspiring AI Prompt Engineer seeking any relevant new job opportunities!</Strong></h3>
 
-- 🔭 I’m currently working on **a US Cost of Living App**
+- 🔭 I’m currently working on **a US Cost of Living EDA Project**
 
-- ⚡ Fun fact **I enjoy weightlifting, chess, and tennis.**
+- ⚡ Fun fact **I enjoy weightlifting, art, chess, and tennis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
