@@ -1,5 +1,5 @@
 <h1 align="left"> <Strong>Hi 👋, I'm Steven</Strong></h1>
-<h3 align="left"> <Strong>🖥 A passionate tech enthusiast looking to create new projects and step foot into Cloud and Data Engineering roles !</Strong></h3>
+<h3 align="left"> <Strong>🖥 A passionate tech enthusiast looking to create new projects and step foot into Cloud and Data Analytics/Engineering roles !</Strong></h3>
 
 - 🔭 I’m currently working on **a US Cost of Living EDA Project**
 
