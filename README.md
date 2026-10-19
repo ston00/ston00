@@ -1,7 +1,7 @@
 <h1 align="left"> <Strong>Hi 👋, I'm Steven</Strong></h1>
-<h3 align="left"> <Strong>🖥 A passionate Cloud and Data Analytics/Engineering </Strong></h3>
+<h3 align="left"> <Strong>🖥 A passionate Cloud and Data Engineer </Strong></h3>
 
-- 🔭 I’m currently working on **a US Cost of Living EDA Project**
+- 🔭 I’m currently working on **a FRED Economic Data Ingestion Pipeline**
 
 - ⚡ Fun fact **I enjoy weightlifting, art, chess, and tennis.**
 
